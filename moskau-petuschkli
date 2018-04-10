@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6614916597466,
+          55.7573700226346,
+          0
+        ]
+      },
+      "properties": {
+        "name": "01 Kursker Bahnhof",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8182050192837,
+          55.7441386858177,
+          0
+        ]
+      },
+      "properties": {
+        "name": "02 Novogireevo",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8588148657393,
+          55.7519533745735,
+          0
+        ]
+      },
+      "properties": {
+        "name": "03 Reutovo",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.897731810475,
+          55.7598869413926,
+          0
+        ]
+      },
+      "properties": {
+        "name": "04 Nikolskoe",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9099857570847,
+          55.7599960435004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "05 Saltykovskaja",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9333116137052,
+          55.755936438169,
+          0
+        ]
+      },
+      "properties": {
+        "name": "07 der Zug",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9966332461997,
+          55.7520722478088,
+          0
+        ]
+      },
+      "properties": {
+        "name": "08 Zhelesnodoroshnij",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0705281806976,
+          55.7497458494659,
+          0
+        ]
+      },
+      "properties": {
+        "name": "09 Cernoe",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1459768638521,
+          55.7799623804232,
+          0
+        ]
+      },
+      "properties": {
+        "name": "10 Kupavna",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3399118219464,
+          55.7220296797681,
+          0
+        ]
+      },
+      "properties": {
+        "name": "11 ElektroUgli",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6535118582906,
+          55.7749792824972,
+          0
+        ]
+      },
+      "properties": {
+        "name": "15 Pavlovski Posad",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8439217151134,
+          55.7495101626802,
+          0
+        ]
+      },
+      "properties": {
+        "name": "17 Dresna",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9956608958746,
+          55.8026461773686,
+          0
+        ]
+      },
+      "properties": {
+        "name": "18 Orehove-Zujevo",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1935465252251,
+          55.8835053500302,
+          0
+        ]
+      },
+      "properties": {
+        "name": "22 Pokrov",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3174299767639,
+          55.908350873314,
+          0
+        ]
+      },
+      "properties": {
+        "name": "23 Usad?",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4094681389811,
+          55.9202259953861,
+          0
+        ]
+      },
+      "properties": {
+        "name": "23 Omutische",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4254785087313,
+          55.9220607896294,
+          0
+        ]
+      },
+      "properties": {
+        "name": "24 Leonovo?",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.459901600879,
+          55.9243612434155,
+          0
+        ]
+      },
+      "properties": {
+        "name": "25 Petuschki",
+        "tessellate": -1,
+        "extrude": 0,
+        "visibility": -1
+      }
+    }
+  ]
+}
